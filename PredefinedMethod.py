@@ -9,7 +9,6 @@ Sample Output:
 60
 
 '''
-
 def sum_tuple_elements():
     # Input the number of elements
     n = int(input("Enter the number of elements: "))
